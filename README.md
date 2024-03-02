@@ -1,4 +1,4 @@
-# ProjectModul-2
+# Supermarket Customer Analysis
 1. Latar Belakang`
 Merupakan suatu keharusan bagi setiap pelaku bisnis untuk mengetahui segmentasi pasar mengenai produknya. Pengetahuan yang baik terhadap produknya sangat penting agar proses bisnis perusahaan dapat berjalan dengan baik. Ada beberapa metode untuk menganalisis segmentasi pasar, beberapa metode dengan melibatkan pemahaman perilaku pelanggan dan pemahaman kebutuhan pelanggan. Nah dengan menganalisis data Pelanggan Supermarket diharapkan kita dapat membuat strategi pemasaran yang baik untuk meningkatkan penjualan produk dalam mencapai target penjualan.
 
